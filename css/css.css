@@ -1,0 +1,155 @@
+*{
+    margin: 0px;
+}
+.oreiz{
+    background-color: chocolate;
+    width: 30px;
+    height: 30px;
+    position: fixed;
+    top: 75px;
+    left: 300px;
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 75px;
+}
+.orede{
+    background-color: chocolate;
+    width: 30px;
+    height: 30px;
+    position: fixed;
+    top: 75px;
+    left: 370px;
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 75px;
+}
+.cabeza{
+    background-color: chocolate;
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    top: 100px;
+    left: 300px;
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 75px;
+}
+.boca{
+    background-color: burlywood;
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    top:60px;
+    left: 30px;
+    border-radius: 50px ;
+}
+.nariz{
+    background-color: black;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 100px;
+    top: 35px;
+    left: 40px;
+
+}
+.boquita{
+    position: absolute;
+    width: 20px;
+    height: 10px;
+    top: 10px;
+    left: 10px;
+    border-radius: 100px;
+    font-size: 20px;
+}
+.ojoiz{
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    top: 30px;
+    left: 25px;
+    border-radius: 100px;
+
+}
+.ojode{
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    top: 30px;
+    left: 65px;
+    border-radius: 100px;
+}
+.cuerpo{
+    background-color: chocolate;
+    width: 150px;
+    height: 150px;
+    position: fixed;
+    top: 200px;
+    left: 275px;
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 75px;
+}
+.panza{
+    background-color: burlywood;
+    width: 90px;
+    height: 100px;
+    position: absolute;
+    top:40px;
+    left: 30px;
+    border-radius: 50px ;
+}
+.braiz{
+    background-color: chocolate;
+    width: 50px;
+    height: 30px;
+    position: fixed;
+    top: 220px;
+    left: 250px;
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 75px;
+}
+.brade{
+    background-color: chocolate;
+    width: 50px;
+    height: 30px;
+    position: fixed;
+    top: 220px;
+    left: 400px;
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 75px;
+}
+.pieiz{
+    background-color: chocolate;
+    width: 50px;
+    height: 30px;
+    position: fixed;
+    top: 320px;
+    left: 250px;
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 75px;
+}
+.piede{
+    background-color: chocolate;
+    width: 50px;
+    height: 30px;
+    position: fixed;
+    top: 320px;
+    left: 400px;
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 75px;
+}
